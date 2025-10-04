@@ -1,9 +1,9 @@
-<img src="https://github.com/tallandcollege/introductie-project-youtube/blob/main/Source/youtube/storage/app/public/fav.png?raw=true" alt="logo" title="4Tube" align="right" height="60" />
+<img src="https://github.com/kars001/4Tube-v2/blob/main/storage/app/public/fav.png" alt="logo" title="4Tube" align="right" height="60" />
 
 # 4Tube
 
 4Tube is a youtube clone that allows to upload, manage, view and interact with video's. Made with laravel and tailwindcss the design works on all devices without any issues.
-![image](https://github.com/user-attachments/assets/d85f8ba4-21c4-476d-9d7a-5f28a9c1f02c)
+![image](https://github.com/kars001/4Tube-v2/blob/main/storage/app/public/readme.png)
 
 # Table Of Content
 - [Installation](#installation)
