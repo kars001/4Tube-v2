@@ -34,8 +34,8 @@ jobs:
                 "color": 5067519,
                 "fields": [
                   {
-                    "name": "'"$COMMIT_HASH"'",
-                    "value": "'"$COMMIT_MESSAGE"'",
+                    "name": "`'"$COMMIT_HASH"'`",
+                    "value": "```'"$COMMIT_MESSAGE"'```",
                     "inline": false
                   }
                 ],
